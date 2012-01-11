@@ -1,0 +1,33 @@
+{
+  "version": "0.1",
+  "name": "GTUG Ruhr Theme",
+  "theme": {
+    "images" : {
+      "theme_frame" : "images/frm_main.png",
+      "theme_frame_incognito": "images/frm_incognito.png",
+      "theme_ntp_background" : "images/gtugruhr_bg.png"
+    },
+    "colors" : {
+      "frame": [ 163, 163, 163 ],
+      "frame_inactive": [ 200, 200, 200 ],
+      "ntp_link": [ 255, 255, 255 ],
+      "ntp_section": [ 245, 245, 245 ],
+      "ntp_text": [ 200, 200, 200 ],
+      "toolbar": [ 235, 235, 235 ] 
+    },
+    "tints" : {
+      "buttons" : [0.6, 0, 0.5],
+      "frame_inactive": [ 0.6, 0.0, 0.5 ],
+      "frame_incognito_inactive": [ 0.6, 0.0, 0.5 ]      
+    },
+    "properties" : {
+      "ntp_background_alignment" : "bottom",
+      "ntp_background_repeat" : "no-repeat",
+      "ntp_logo_alternate" : 0
+    }
+  },
+  "icons": { 
+      "24": "images/gtugruhr_icon24.jpg",
+      "48": "images/gtugruhr_icon48.jpg"
+  }
+}
